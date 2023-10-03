@@ -1,5 +1,7 @@
 ## Hi there! Welcome to my GitHub! :wave:
+![](https://raw.githubusercontent.com/Keichan15/Keichan15/output/github-contribution-grid-snake.svg)
 
+## Stats :chart_with_upwards_trend:
 <p align="left">
   <a href="https://github.com/Keichan15/Keichan15/">
     <img src="https://komarev.com/ghpvc/?username=Keichan15" alt="Keichan15" />
@@ -20,8 +22,7 @@
     <img height="20" src="https://badgen.org/img/zenn/keichan_15/articles?style=plastic"
   </a>
 </p>
-
-## Stats :chart_with_upwards_trend:
+    
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keichan15&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Keichan15&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Keichan15&theme=gruvbox)
