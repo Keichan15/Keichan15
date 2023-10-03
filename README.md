@@ -1,4 +1,4 @@
-## Hi there! Welcome to my GitHub! :wave:
+## Hi!:wave: Welcome to my GitHub! 😊
 ![](https://raw.githubusercontent.com/Keichan15/Keichan15/output/github-contribution-grid-snake.svg)
 
 ## Stats :chart_with_upwards_trend:
