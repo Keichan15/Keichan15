@@ -1,6 +1,9 @@
 ## Hi!:wave: Welcome to my GitHub! 😊
 ![](https://raw.githubusercontent.com/Keichan15/Keichan15/output/github-contribution-grid-snake.svg)
 
+## Profile
+- 作成中…
+
 ## Stats :chart_with_upwards_trend:
 <p align="left">
   <a href="https://github.com/Keichan15/Keichan15/">
