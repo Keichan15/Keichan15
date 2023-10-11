@@ -1,10 +1,35 @@
-## Hi!:wave: Welcome to my GitHub! 😊
-![](https://raw.githubusercontent.com/Keichan15/Keichan15/output/github-contribution-grid-snake.svg)
+# Hi!:wave: Welcome to my GitHub! 😊
 
-## Profile
-- 作成中…
+
+## Profile 🤴
+### Language
+- Java
+- Ruby
+- JavaScript
+- TypeScript
+- Go
+- PHP
+
+### Framework
+- Ruby on Rails
+- Next.js
+- Gin
+- Spring Framework
+- Apache Struts2
+
+### Library
+- React
+- Bootstrap
+- Tailwind CSS
+
+### Others
+- AWS(EC2, RDS)
+- GitHub Actions
+- Google App Script
 
 ## Stats :chart_with_upwards_trend:
+![](https://raw.githubusercontent.com/Keichan15/Keichan15/output/github-contribution-grid-snake.svg)
+
 <p align="left">
   <a href="https://github.com/Keichan15">
     <img height="20" src="https://img.shields.io/github/followers/Keichan15?label=follow&logo=github&style=flat" />
