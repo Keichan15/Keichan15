@@ -26,6 +26,7 @@
 - AWS(EC2, RDS)
 - GitHub Actions
 - Google App Script
+- discord.js
 
 ## Stats :chart_with_upwards_trend:
 ![](https://raw.githubusercontent.com/Keichan15/Keichan15/output/github-contribution-grid-snake.svg)
