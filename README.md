@@ -27,6 +27,7 @@
 - GitHub Actions
 - Google App Script
 - discord.js
+- ChatGPT-API
 
 ## Stats :chart_with_upwards_trend:
 ![](https://raw.githubusercontent.com/Keichan15/Keichan15/output/github-contribution-grid-snake.svg)
