@@ -45,7 +45,7 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/Keichan_15/contributions.svg" />
   </a>
   <a href="https://zenn.dev/keichan_15">
-    <img height="20" src="https://badgen.org/img/zenn/keichan_15/articles?style=plastic"
+    <img height="20" src="https://badgen.org/img/zenn/keichan_15/articles?style=plastic" />
   </a>
 </p>
     
