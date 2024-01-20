@@ -1,4 +1,4 @@
-# Hi!:wave: Welcome to my GitHub! 😊
+# Hi! :wave: Welcome to my GitHub! 😊
 
 ## Profile 🤴
 ### Language
