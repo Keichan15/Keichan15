@@ -22,11 +22,15 @@
 - Tailwind CSS
 
 ### Others
-- AWS(EC2, RDS)
+- Linux(Ubuntu, RHEL9)
+- Docker
+- AWS(EC2, RDS, ECS, S3)
 - GitHub Actions
 - Google App Script
 - discord.js
+- discord.py
 - ChatGPT-API
+- proxmox VE
 
 ## Stats :chart_with_upwards_trend:
 ![](https://raw.githubusercontent.com/Keichan15/Keichan15/output/github-contribution-grid-snake.svg)
