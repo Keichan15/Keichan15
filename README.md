@@ -12,6 +12,7 @@
 ### Framework
 - Ruby on Rails
 - Next.js
+- Hono.js
 - Gin
 - Spring Framework
 - Apache Struts2
