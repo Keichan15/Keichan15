@@ -23,6 +23,10 @@
 - Bootstrap
 - Tailwind CSS
 
+## AI
+- Codex
+- Claude Code
+
 ### Others
 - Linux(Ubuntu, RHEL9)
 - Docker
