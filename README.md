@@ -26,6 +26,7 @@
 ## AI
 - Codex
 - Claude Code
+- Muse
 
 ### Others
 - Linux(Ubuntu, RHEL9)
